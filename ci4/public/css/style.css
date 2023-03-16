@@ -12,6 +12,7 @@
 GENERICS 
 
 */
+body,
 html {
     scroll-behavior: smooth;
     transition: all 2s ease;
@@ -429,13 +430,13 @@ PHP FORM VALIDATION > CONTACT ME
 .Form__title {
     text-align: center;
     padding-top: 100px;
-        font-size: 40px;
-            font-weight: 300;
-            color: #fff;
-            text-shadow: 0 0 5px #c2caca,
-                0 0 25px #dee4e5,
-                0 0 50px #f40303,
-                0 0 100px #f40333;
+    font-size: 40px;
+    font-weight: 300;
+    color: #fff;
+    text-shadow: 0 0 5px #c2caca,
+        0 0 25px #dee4e5,
+        0 0 50px #f40303,
+        0 0 100px #f40333;
 }
 
 .Form__inbox {
