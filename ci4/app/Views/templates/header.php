@@ -7,13 +7,16 @@ $title = "Welcome to My Awesome Site";
 <!doctype html>
 <html>
 
+<!doctype html>
+<html>
+
 <head>
     <title>CodeIgniter Tutorial</title>
 </head>
 
 <body>
 
-    <h1><?php echo htmlspecialchars($title, ENT_QUOTES); ?></h1>
+    <h1>Page Title</h1>
 
 </body>
 
