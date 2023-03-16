@@ -10,8 +10,11 @@ $title = "Welcome to My Awesome Site";
 <!doctype html>
 <html>
 
+<!doctype html>
+<html>
+
 <head>
-    <title>CodeIgniter Tutorial</title>
+    <!-- No title tag -->
 </head>
 
 <body>
