@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Leslie's</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <script src="css"></script>
     <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
 </head>
 
