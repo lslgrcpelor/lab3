@@ -19,7 +19,7 @@ html {
 }
 
 .container {
-    background-image: url(css/1.jpg);
+    background-image: url(1.jpg);
     background-position: center;
     backdrop-filter: 8px;
     background-size: cover;
@@ -29,7 +29,7 @@ html {
 }
 
 .containerr {
-    background-image: url(css/2.jpg);
+    background-image: url(2.jpg);
     background-position: center;
     backdrop-filter: 8px;
     background-size: cover;
@@ -39,7 +39,7 @@ html {
 }
 
 .containerrr {
-    background-image: url(css/3.2.jpg);
+    background-image: url(3.2.jpg);
     background-position: center;
     backdrop-filter: 8px;
     background-size: cover;
